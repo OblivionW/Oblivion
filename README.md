@@ -1,2 +1,5 @@
-[I'm an inline-style link with title](https://github.com/loi31 "Real Github Profile")
-[I'm an inline-style link with title](https://discord.gg/yzVKsYkkwM "Discord Server")
+**OblivionW**
+
+[Real Github Profile](https://github.com/loi31 "Real Github Profile")
+
+[Discord Server](https://discord.gg/yzVKsYkkwM "Discord Server")
